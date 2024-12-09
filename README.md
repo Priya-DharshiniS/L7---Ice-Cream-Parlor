@@ -1,6 +1,6 @@
 **Frosty Delights**
 
-This project is a simple Tkinter-based ice cream parlor management app that allows users to view available seasonal ice cream flavors, search for specific flavors, add items to a cart, and manage allergies. The app also includes a backend database (SQLite) to store flavors and cart items. Users can interact with the app by selecting flavors to add to their cart, viewing the cart's contents, and setting allergy preferences to filter flavors accordingly. The app uses a clean and intuitive UI with options for searching, adding, and managing flavors.
+This project is a simple Tkinter-based ice cream parlor management app that allows users to view available seasonal ice cream flavors, add items to a cart, and manage allergies. The app also includes a backend database (SQLite) to store flavors and cart items. Users can interact with the app by selecting flavors to add to their cart, viewing the cart's contents, and setting allergy preferences to filter flavors accordingly. The app uses a clean and intuitive UI with options for searching, adding, and managing flavors.
 
 **Steps to run**
 Step 1: Run the command: git clone <repository_url> 
