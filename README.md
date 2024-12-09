@@ -9,5 +9,5 @@ Step 2: Make sure you have Python installed (preferably Python 3.x).
         SQLite comes pre-installed with Python, so no additional installation is required.  
 Step 3: Run cd <project_folder> to go to the cloned project directory. 
 Step 4: Execute the command: python app.py to start the application.  
-Step 5: The app should open in a new window, and you can start interacting with the features. 
-Step 6: You can modify or add new seasonal flavors directly in the SQLite database (ice_cream.db). 
+Step 5: The app should open in a new window, and can start interacting with the features. 
+Step 6: Can modify or add new seasonal flavors directly in the SQLite database (ice_cream.db). 
